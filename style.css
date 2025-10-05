@@ -108,3 +108,8 @@ font-weight: bolder;
     color: royalblue;
     border: 2px solid royalblue;
 }
+
+.btn2:hover{
+  background-color: royalblue;
+  color: white;
+}
