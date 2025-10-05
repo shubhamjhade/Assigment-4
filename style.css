@@ -61,8 +61,9 @@ html, body {
     width: 100%;
     background-image: url(https://www.apple.com/v/home/ch/images/heroes/iphone-17-pro/hero_iphone_17_pro__bknyzxfk2agi_medium_2x.jpg);
   background-position: center bottom -100px;
-    background-size: cover;
+    background-size:cover;
     color: white;
+    background-repeat: no-repeat;
 }
 
 .apple h1{
